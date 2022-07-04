@@ -1,0 +1,5 @@
+iteration,collectionName,requestName,method,url,status,code,responseTime,responseSize,executed,failed,skipped
+"1","DemoRequest","Get users","GET","https://reqres.in/api/users?page=2","OK","200","685","1030"
+"1","DemoRequest","Create User","POST","https://reqres.in/api/users","Created","201","685","84"
+"1","DemoRequest","Update user","PUT","https://reqres.in/api/users/2","OK","200","528","40"
+"1","DemoRequest","Delete User","DELETE","https://reqres.in/api/users/2","No Content","204","453","0"
